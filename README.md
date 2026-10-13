@@ -51,8 +51,6 @@ Package identities were checked against the [official Play listings](https://git
 
 The launcher screen explains setup and limitations; scope and enablement are managed in LSPosed. It does not display live activation status.
 
-This is a new application ID: `io.github.roviandev.browseroverlayfix`. Disable or uninstall the older **Opera Overlay Fix** module before enabling this one, so two modules do not hook the same methods. Your old module used a test signing key; this project is intended for your release key.
-
 ## Source code
 
 The complete source and developer build instructions are available in [RovianDev/BrowserOverlayFix](https://github.com/RovianDev/BrowserOverlayFix).
